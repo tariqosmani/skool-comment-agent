@@ -35,6 +35,8 @@ community, draft up to 3 comments in his voice, check them, and send them to him
 4. Skip automatically: comments turned off, categories Hire Me / Announcements / YouTube Resources,
    titles with [SOLVED], posts by Tariq Osmani, posts where Tariq Osmani already commented.
 5. Take the **3 newest** posts left. Open each one and read the full post and its comments.
+   **Open the post page itself and look for the comment box.** If it says comments are turned off,
+   or there is no comment box, skip the post. The feed alone doesn't show this.
 
 If nothing is left, **send nothing**. Don't message Tariq to say "no new posts".
 
@@ -89,7 +91,8 @@ actually read this post? If not, rewrite.
 
 ### 5. Send
 
-Send Tariq one message in this shape:
+Send Tariq **only the final message**. No thinking out loud, no drafts you rejected, no "let me
+rewrite", no notes about the checklist, no footer or signature. Use this shape:
 
 ```
 Skool · AI Automation Society · <HH:MM> PKT · <N> draft(s)
